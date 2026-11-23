@@ -111,3 +111,10 @@ Os testes automatizados verificam:
 - Funcionamento da rota inicial.
 - Listagem de produtos.
 - Listagem de categorias.
+## Documentação da API
+
+A documentação interativa da API foi desenvolvida com Swagger.
+
+Com o servidor iniciado, acesse:
+
+http://localhost:3000/api-docs
